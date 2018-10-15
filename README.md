@@ -1,2 +1,4 @@
 # Hello-World-2
-Just another repository
+
+Hi Humans, this is Ivan
+Welcome to Hello World 2
